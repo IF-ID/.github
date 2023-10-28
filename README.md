@@ -11,6 +11,10 @@ Uma iniciativa estudantil de corroborar com o Instituto Federal de Educação, C
 ## Autores
 
 - [@liljmmiguel13](https://www.github.com/liljmmiguel13)
-- [@liljmmiguel13](https://www.github.com/liljmmiguel13)
-- [@liljmmiguel13](https://www.github.com/liljmmiguel13)
-- [@liljmmiguel13](https://www.github.com/liljmmiguel13)
+- [@Rodrifer2004](https://www.github.com/Rodrifer2004)
+- [@nathil](https://www.github.com/nathil)
+- [@murilo-henrique060](https://www.github.com/murilo-henrique060)
+
+## Funcionalidades
+
+- Multiplataforma
