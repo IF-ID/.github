@@ -5,7 +5,7 @@ Uma iniciativa estudantil de corroborar com o Instituto Federal de Educação, C
 
 ## Documentação
 
-[Documentação do Projeto]([https://link-da-documentação](https://docs.google.com/document/d/1rpWPJLzkzfs-VpM3YVrIp-eR6A8Imf8qffkGM6C-FoQ/edit?usp=sharing))
+[Documentação do Projeto] ([https://link-da-documentação](https://docs.google.com/document/d/1rpWPJLzkzfs-VpM3YVrIp-eR6A8Imf8qffkGM6C-FoQ/edit?usp=sharing))
 
 ## Etiquetas
 
