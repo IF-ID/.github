@@ -21,4 +21,5 @@ Uma iniciativa estudantil de corroborar com o Instituto Federal de Educação, C
 
 ## Funcionalidades
 
-- Multiplataforma
+- (Em construção)
+- 
