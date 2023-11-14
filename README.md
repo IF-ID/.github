@@ -26,7 +26,7 @@ Tabela de conteúdos
    * [Desenvolvimento](#Desenvolvimento)
       * [VS Code](#VS_Code)
       * [GitHub Copilot](#GitHub_Copilot)
-      * [Git/GitHub](#Git/GitHub)
+      * [Git/GitHub](#Git_GitHub)
       * [MySQL Workspace](#MySQL_Workspace)
       * [Trello](#Trello)
       * [Slack](#Slack)
@@ -185,7 +185,7 @@ Tabela de conteúdos
 > #### O GitHub Copilot é o resultado da parceria entre a maior empresa de pesquisas relacionadas com inteligências artificiais, a OpenAI, e uma das maiores empresas de tecnologia existentes, a Microsoft.  O Copilot é uma ferramenta de auxílio ao desenvolvimento de software com as mais diversas funções, como sugestão e código, refatoração, criação de código a partir de uma frase ou perguntas sobre o funcionamento de certa tecnologia, tornando essa ferramenta um facilitador no processo de desenvolvimento, reduzindo o tempo gasto no desenvolvimento da aplicação.
 
 
-## Git/GitHub
+## Git_GitHub
 
 > #### Git é um sistema de versionamento de arquivos, usado para controlar diferentes versões do mesmo código que está sendo desenvolvido em diferentes máquinas. E GitHub é uma plataforma de hospedagem de código fonte utilizando o git.
 
