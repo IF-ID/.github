@@ -13,6 +13,7 @@ Tabela de conteúdos
    * [Projeto](#Projeto)
       * [Tecnologias](#Tecnologias)
       * [Pré_Requisitos](#Pré_Requisitos)
+      * [Rodando_a_Aplicação](#Rodando_a_Aplicação)
    * [Desenvolvimento](#Desenvolvimento)
    * [Funcionalidades](#Funcionalidades)
 <!--te-->
@@ -29,7 +30,6 @@ Tabela de conteúdos
 - [@Rodrifer2004](https://www.github.com/Rodrifer2004)
 - [@nathil](https://www.github.com/nathil)
 - [@murilo-henrique060](https://www.github.com/murilo-henrique060)
-
 
 ## Projeto
 
@@ -59,6 +59,28 @@ Tabela de conteúdos
 - Node.js - Pré-Requisito necessário para a utilização do javascript no backend;
 - Node Package Manager (NPM) - Gerenciador de pacotes e configuração do projeto;
 - MySQL - Um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface.
+
+
+## Rodando_a_Aplicação
+
+> #### Aqui você terá as instruções de como rodar a aplicação da maneira correta.
+
+### Rodando Localmente
+
+> #### Certifique-se que as dependências estão instaladas
+
+- Clone o projeto
+- bash
+    - git clone <link-do projeto>
+- Vá para o diretório do projeto
+- bash
+    - cd <nome-do-diretorio>
+- Instalar as dependências do projeto
+- bash
+    -npm install
+- Inicie o servidor
+- bash
+    -npm start
 
 
 ## Desenvolvimento
