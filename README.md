@@ -53,7 +53,7 @@ Tabela de conteúdos
 - Jaws Mysql - Banco de dados.
 
 
-## Requisitos de Hardware
+## Especificações de Hardware
 
 
 ### Especificações para PC
