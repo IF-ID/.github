@@ -55,10 +55,10 @@ Tabela de conteúdos
 
 ## Requisitos de Hardware
 
-### Os Requisitos de Hardware mínimos para rodar a aplicação em sua máquina são:
+#### Os Requisitos de Hardware mínimos para rodar a aplicação em sua máquina são:
 
 
-## Especificações para PC
+### Especificações para PC
 | Hardware |    Especificações   |
 | ----------------- | ----------- |
 | Processador:      | Processador de 1 gigahertz (GHz) ou mais rápido ou Sistema em um chip (SoC) |
@@ -68,7 +68,7 @@ Tabela de conteúdos
 | Tela:       | 800 x 600 |
 | Conexão com a Internet:       | Requer uma conexão com a Internet para executar a aplicação |
 
-## Especificações para Mobile
+### Especificações para Mobile
 | Hardware |    Especificações   |
 | ----------------- | ----------- |
 | Processador:      | Processador de 2 gigahertz (GHz) ou mais rápido ou Sistema em um chip (SoC) |
