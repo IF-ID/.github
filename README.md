@@ -87,7 +87,7 @@ Tabela de conteúdos
 
 > ### Esta seção descreve as ferramentas utilizadas diretamente no desenvolvimento da aplicação, mas não são necessárias para a utilização do projeto. São apenas recomendações para o ambiente de desenvolvimento.
 
-> ### As tecnologias utilizadas e recomendadas para o desenvolvimento do projeto são:
+### As tecnologias utilizadas e recomendadas para o desenvolvimento do projeto são:
 
 - Visual Studio Code (VS Code) - Ambiente de Desenvolvimento Integrado (IDE);
 - GitHub Copilot - Copiloto de desenvolvimento controlado por Inteligência Artificial (IA);
@@ -103,7 +103,9 @@ Tabela de conteúdos
 
 ## Funcionalidades
 
-> ### As funcionalidades citadas a seguir derivam de nosso estudo com as Proto Personas indicadas em nossa documentação, não necessariamente representam as funcionalidades totais que serão implementadas, mas servem como guia e base para nossos esforços.
+> ### As funcionalidades derivam de nosso estudo com as Proto Personas indicadas em nossa documentação, não necessariamente representam as funcionalidades totais que serão implementadas, mas servem como guia e base para nossos esforços.
+
+### As funcionalidades de nosso Projeto são:
 
 - Acessar o site pelo celular e pelo computador, além da opção de um aplicativo android;
 - Possibilitar ao usuário fazer o login para salvar os crachás;
