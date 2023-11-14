@@ -12,7 +12,7 @@ Tabela de conteúdos
    * [Autores](#Autores)
    * [Projeto](#Projeto)
       * [Tecnologias](#Tecnologias)
-          * [Node.js](#Node.js)
+          * [Node.js](#Node_js)
           * [NPM](#NPM)
           * [Express](#Express)
           * [Pug](#Pug)
@@ -30,8 +30,8 @@ Tabela de conteúdos
       * [MySQL Workspace](#MySQL_Workspace)
       * [Trello](#Trello)
       * [Slack](#Slack)
-      * [Draw.io](#Draw.io)
-      * [BR Modelo](#BR Modelo)
+      * [Draw.io](#Draw_io)
+      * [BR Modelo](#BR_Modelo)
       * [Figma](#Figma)
       * [Notion](#Notion)
 <!--te-->
@@ -71,7 +71,7 @@ Tabela de conteúdos
 - Jaws Mysql - Banco de dados.
 
 
-## Node.js
+## Node_js
 
 > #### Node.js é um ambiente de execução de código aberto, multi-plataforma de JavaScript. Roda a partir do motor de execução V8, o mesmo utilizado em navegadores como Google Chrome, possibilitando uma grande performance do código sem comprometer o uso de recursos.
 
@@ -175,7 +175,7 @@ Tabela de conteúdos
 - Notion - Confecção e manutenção da documentação.
 
 
-## VS Code
+## VS_Code
 
 > #### VS Code ou Visual Studio Code é uma IDE open source desenvolvida e mantida pela microsoft, com sua grande variedade de extensões desenvolvidas pela própria comunidade e a variedade de customizações que podem ser feitas, o VS Code é uma das IDEs mais famosas que existem, e pode ser utilizada nas mais diversas linguagens, porém tem um foco especial no desenvolvimento com JavaScript e Node.js, tornado-a a perfeita para esse projeto.
 
@@ -207,12 +207,12 @@ Tabela de conteúdos
 > #### Slack é uma plataforma de comunicação criada inicialmente para facilitar a comunicação do time, será utilizada como principal meio de comunicação entre os membros do time.
 
 
-## Draw.io
+## Draw_io
 
 > #### [Draw.io](http://Draw.io), também conhecido como [Diagrams.net](http://Diagrams.net) é uma plataforma para criação dos mais diversos tipos de diagramas, como diagramas de UML, diagramas de casos de uso, wireframes, etc.
 
 
-## BR Modelo
+## BR_Modelo
 
 > #### BR Modelo é uma ferramenta de criação de modelos conceituais e lógicos de bancos de dados.
 
