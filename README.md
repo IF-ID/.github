@@ -12,9 +12,9 @@ Tabela de conteúdos
    * [Autores](#Autores)
    * [Projeto](#Projeto)
       * [Tecnologias](#Tecnologias)
-      * [Requisitos_de_Hardware](#Requisitos-de-Hardware)
-      * [Pré_Requisitos](#Pré-Requisitos)
-      * [Rodando_a_Aplicação](#Rodando-a-Aplicação)
+      * [Requisitos de Hardware](#Requisitos-de-Hardware)
+      * [Pré Requisitos](#Pré-Requisitos)
+      * [Rodando a Aplicação](#Rodando-a-Aplicação)
    * [Desenvolvimento](#Desenvolvimento)
    * [Funcionalidades](#Funcionalidades)
 <!--te-->
