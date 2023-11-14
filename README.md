@@ -1,17 +1,29 @@
+# IFID
 
-<h1>IFID</h1>
+> Status: Em Desenvolvimento
 
-Uma iniciativa estudantil de corroborar com o Instituto Federal de Educação, Ciência Tecnologia do Pará a oferecer a seus alunos maneiras mais eficientes de criação, edição e gerenciamento de seus crachás institucionais.
+### O IFID é um projeto de teor independente com o objetivo de disponibilizar uma ferramenta online para criação e gerenciamento de crachás de identificação do IFPA Campus Belém partindo da matrícula do estudante.
 
 
-## Descrição do Projeto
-
-O IFID é um projeto de teor independente com o objetivo de disponibilizar uma ferramenta online para criação e gerenciamento de crachás de identificação do IFPA Campus Belém partindo da matrícula do estudante.
-
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [Documentação](#Documentação)
+   * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Instalação](#instalacao)
+   * [Como usar](#como-usar)
+      * [Pre Requisitos](#pre-requisitos)
+      * [Local files](#local-files)
+      * [Remote files](#remote-files)
+      * [Multiple files](#multiple-files)
+      * [Combo](#combo)
+   * [Tests](#testes)
+   * [Tecnologias](#tecnologias)
+<!--te-->
 
 ## Documentação
 
-[Documentação do Projeto] ([https://link-da-documentação](https://docs.google.com/document/d/1rpWPJLzkzfs-VpM3YVrIp-eR6A8Imf8qffkGM6C-FoQ/edit?usp=sharing))
+> ### [Documentação do Projeto] ([https://documentaçãoIFID](https://docs.google.com/document/d/1rpWPJLzkzfs-VpM3YVrIp-eR6A8Imf8qffkGM6C-FoQ/edit?usp=sharing))
 
 
 ## Autores
@@ -24,7 +36,7 @@ O IFID é um projeto de teor independente com o objetivo de disponibilizar uma f
 
 ## Funcionalidades
 
-As funcionalidades citadas a seguir derivam de nosso estudo com as Proto Personas indicadas em nossa documentação, não necessariamente representam as funcionalidades totais que serão implementadas, mas servem como guia e base para nossos esforços.
+### As funcionalidades citadas a seguir derivam de nosso estudo com as Proto Personas indicadas em nossa documentação, não necessariamente representam as funcionalidades totais que serão implementadas, mas servem como guia e base para nossos esforços.
 
 - Possibilidade de acessar o site pelo computador.
 - Criar crachá sem fazer login.
@@ -35,3 +47,7 @@ As funcionalidades citadas a seguir derivam de nosso estudo com as Proto Persona
 - Possibilidade de criar e armazenar uma série de crachás ao mesmo tempo.
 - Possibilidade de exportar múltiplos crachás como PNG e como pdf para impressão.
 - Possibilidade de compartilhar crachás como PNG pelo whatsapp.
+
+
+## Tecnologias Utilizadas
+
