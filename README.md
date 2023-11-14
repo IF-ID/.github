@@ -22,7 +22,7 @@ Tabela de conteúdos
 
 ## Documentação
 
-> ### [Documentação do IFID](https://docs.google.com/document/d/1rpWPJLzkzfs-VpM3YVrIp-eR6A8Imf8qffkGM6C-FoQ/edit?usp=sharing)
+### [Documentação do IFID](https://docs.google.com/document/d/1rpWPJLzkzfs-VpM3YVrIp-eR6A8Imf8qffkGM6C-FoQ/edit?usp=sharing)
 
 
 ## Autores
