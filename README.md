@@ -55,6 +55,29 @@ Tabela de conteúdos
 
 ## Requisitos de Hardware
 
+### Os Requisitos de Hardware mínimos para rodar a aplicação em sua máquina são:
+
+
+## Especificações para PC
+| Hardware |    Especificações   |
+| ----------------- | ----------- |
+| Processador:      | Processador de 1 gigahertz (GHz) ou mais rápido ou Sistema em um chip (SoC) |
+| RAM:       | 1 gigabyte (GB) para 32 bits ou 2 GB para 64 bits |
+| Espaço em disco rígido:       | 16 GB para um sistema operacional de 32 bits ou 32 GB para um de 64 bits |
+| Placa gráfica:       | DirectX 9 ou posterior com driver WDDM 1.0 |
+| Tela:       | 800 x 600 |
+| Conexão com a Internet:       | Requer uma conexão com a Internet para executar a aplicação |
+
+## Especificações para Mobile
+| Hardware |    Especificações   |
+| ----------------- | ----------- |
+| Processador:      | Processador de 2 gigahertz (GHz) ou mais rápido ou Sistema em um chip (SoC) |
+| RAM:       | 2 gigabyte (GB) para 32 bits ou 2 GB para 64 bits |
+| Espaço em disco rígido:       | 32 GB para um sistema operacional de 32 bits ou 64 GB para um de 64 bits |
+| Placa gráfica:       | DirectX 9 ou posterior com driver WDDM 1.0 |
+| Tela:       | 800 x 600 |
+| Conexão com a Internet:       | Requer uma conexão com a Internet para executar a aplicação |
+
 
 ## Pré Requisitos
 
