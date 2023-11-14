@@ -12,8 +12,9 @@ Tabela de conteúdos
    * [Autores](#Autores)
    * [Projeto](#Projeto)
       * [Tecnologias](#Tecnologias)
-      * [Pré_Requisitos](#Pré_Requisitos)
-      * [Rodando_a_Aplicação](#Rodando_a_Aplicação)
+      * [Requisitos_de_Hardware](#Requisitos-de-Hardware)
+      * [Pré_Requisitos](#Pré-Requisitos)
+      * [Rodando_a_Aplicação](#Rodando-a-Aplicação)
    * [Desenvolvimento](#Desenvolvimento)
    * [Funcionalidades](#Funcionalidades)
 <!--te-->
@@ -21,7 +22,7 @@ Tabela de conteúdos
 
 ## Documentação
 
-> ### [Documentação do IFID] ([https://documentaçãoIFID](https://docs.google.com/document/d/1rpWPJLzkzfs-VpM3YVrIp-eR6A8Imf8qffkGM6C-FoQ/edit?usp=sharing))
+> ### [Documentação do IFID]([https://documentaçãoIFID](https://docs.google.com/document/d/1rpWPJLzkzfs-VpM3YVrIp-eR6A8Imf8qffkGM6C-FoQ/edit?usp=sharing))
 
 
 ## Autores
@@ -52,7 +53,10 @@ Tabela de conteúdos
 - Jaws Mysql - Banco de dados.
 
 
-## Pré_Requisitos
+## Requisitos de Hardware
+
+
+## Pré Requisitos
 
 ### Os Pré-Requisitos utilizados para alcançar o uso eficiente e devido definidos nesta documentação são:
 
@@ -61,7 +65,7 @@ Tabela de conteúdos
 - MySQL - Um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface.
 
 
-## Rodando_a_Aplicação
+## Rodando a Aplicação
 
 > #### Aqui você terá as instruções de como rodar a aplicação da maneira correta.
 
