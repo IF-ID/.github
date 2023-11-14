@@ -103,7 +103,7 @@ Tabela de conteúdos
 
 ## Funcionalidades
 
-### As funcionalidades citadas a seguir derivam de nosso estudo com as Proto Personas indicadas em nossa documentação, não necessariamente representam as funcionalidades totais que serão implementadas, mas servem como guia e base para nossos esforços.
+> ### As funcionalidades citadas a seguir derivam de nosso estudo com as Proto Personas indicadas em nossa documentação, não necessariamente representam as funcionalidades totais que serão implementadas, mas servem como guia e base para nossos esforços.
 
 - Acessar o site pelo celular e pelo computador, além da opção de um aplicativo android;
 - Possibilitar ao usuário fazer o login para salvar os crachás;
