@@ -67,8 +67,7 @@ Tabela de conteúdos
 
 ### Rodando Localmente
 
-> #### Certifique-se que as dependências estão instaladas
-
+- Certifique-se que as dependências estão instaladas
 - Clone o projeto
 - bash
     - git clone <link-do projeto>
