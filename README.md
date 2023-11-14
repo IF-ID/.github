@@ -85,9 +85,9 @@ Tabela de conteúdos
 
 ## Desenvolvimento
 
-### Esta seção descreve as ferramentas utilizadas diretamente no desenvolvimento da aplicação, mas não são necessárias para a utilização do projeto. São apenas recomendações para o ambiente de desenvolvimento.
+> ### Esta seção descreve as ferramentas utilizadas diretamente no desenvolvimento da aplicação, mas não são necessárias para a utilização do projeto. São apenas recomendações para o ambiente de desenvolvimento.
 
-### As tecnologias utilizadas e recomendadas para o desenvolvimento do projeto são:
+> ### As tecnologias utilizadas e recomendadas para o desenvolvimento do projeto são:
 
 - Visual Studio Code (VS Code) - Ambiente de Desenvolvimento Integrado (IDE);
 - GitHub Copilot - Copiloto de desenvolvimento controlado por Inteligência Artificial (IA);
