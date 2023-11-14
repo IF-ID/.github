@@ -55,8 +55,6 @@ Tabela de conteúdos
 
 ## Requisitos de Hardware
 
-#### Os Requisitos de Hardware mínimos para rodar a aplicação em sua máquina são:
-
 
 ### Especificações para PC
 | Hardware |    Especificações   |
