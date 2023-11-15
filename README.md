@@ -4,6 +4,26 @@
 
 ### O IFID é um projeto de teor independente com o objetivo de disponibilizar uma ferramenta online para criação e gerenciamento de crachás de identificação do IFPA Campus Belém partindo da matrícula do estudante.
 
+# TAGs
+
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
+![Pug](https://img.shields.io/badge/Pug-A86454.svg?style=for-the-badge&logo=Pug&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)
+![Diagrams.net](https://img.shields.io/badge/diagrams.net-F08705.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
+
 
 Tabela de conteúdos
 =================
@@ -119,10 +139,9 @@ Tabela de conteúdos
 - Git/GitHub - Armazenamento e Versionamento do Projeto;
 - Trello - Gerenciamento do time;
 - Slack - Plataforma de comunicação primária entre as partes do time;
-- [Draw.io](http://Draw.io) - Modelagem de diagramas;
+- Draw.io - Modelagem de diagramas;
 - BR Modelo - Modelagem do banco de dados;
-- Figma - Prototipação do projeto;
-- Notion - Confecção e manutenção da documentação.
+- Figma - Prototipação do projeto.
 
 
 ## Funcionalidades
