@@ -55,8 +55,7 @@ Tabela de conteúdos
 
 ## Projeto
 
-> ### Esta seção descreve as tecnologias utilizadas no projeto, além da estrutura do projeto, tanto de diretórios quando de arquivos.
-
+> ### Esta seção descreve as Tecnologias utilizadas no projeto, além das informações sobre como Rodar, Requisitos de Hardware e Pré-Requisitos para o acesso ao projeto.
 
 ## Tecnologias
 
